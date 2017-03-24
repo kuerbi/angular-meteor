@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp",
+  "name": "angular-meteor",
   "private": true,
   "scripts": {
     "start": "meteor run"
